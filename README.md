@@ -7,5 +7,6 @@
 <h3>ACADEMIC PROJECTS <img src="https://cdn-icons-png.flaticon.com/128/2942/2942789.png" alt="Extracurricular" width="22" height="18"></h3>
 <p><a href="https://github.com/adri326/ap4b-project"><b>SIM POWER</b></a> An application aimed to supply electricity in acity and to balance production and consumption thereby reducing cost on population and reducing pollution 
 <br><a href="https://github.com/Aldarme/TPAP4A/tree/GAMBARA_Tarabai_TPLS/Rendu_Final"><b>SENSOR HANDLER</b></a> A virtual sensor (temperature, humidity, pressure, light) handler, an IOT environment simulator that generate and stores sensors’ data into each corresponding file
- <br><a href="https://github.com/taragam21/Cloud_Chatroom"><b>CHATROOM</b></a> An instantaneous messaging platform deployed on cloud using Google AppEngine 
+ <br><a href="https://github.com/taragam21/VHDL"><b>7-SEGMENT DISPLAY</b></a> An adder and a 7-segment display using a Hardware Description Language
+ <br><a href="https://github.com/taragam21/Cloud_Chatroom"><b>CHATROOM</b></a> An instantaneous messaging platform deployed on cloud using Google AppEngine
   </p>
