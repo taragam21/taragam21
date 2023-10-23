@@ -1,6 +1,6 @@
 <h1> Hi there I'm Taragam 👋 </h1>
 <a href ="https://www.linkedin.com/in/taragam/">Linkedin</a>
-<p> Welcome to my profile. I'm a Computer Engineering student at <a href ="https://www.utbm.fr/"> @utbm </a> in France </p>
+<p> Welcome to my profile. I'm a Computer Engineering student at <a href ="https://www.utbm.fr/"> utbm </a> in France </p>
 <h2> My projects sorted by category <img src="https://cdn-icons-png.flaticon.com/512/718/718970.png" alt="Category" width="20" height="15">
 <h3>EXTRACURRICULAR PROJECTS<img src="https://cdn-icons-png.flaticon.com/128/3588/3588658.png" alt="Extracurricular" width="22" height="18"></h3>
 <p><a href="https://github.com/Loyle/GetIN-UTBM"><b>Get-In-UTBM</b></a> A website aimed to facilitate the research and choice of accomodation to new UTBM students </p>
